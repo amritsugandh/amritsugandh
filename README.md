@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Amrit+Sugandh+%F0%9F%91%8B;MCA+Student+at+IIT+Patna;Future+Software+Engineer;Building+Daily+%F0%9F%94%A5" />
+</h1>
 
-<!--
-**amritsugandh/amritsugandh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Developer in progress | 💻 Problem Solver | 📈 Growth Mindset
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 MCA Student at IIT Patna  
+- 🌱 Learning Full Stack & DSA  
+- 🔥 Building projects daily  
+- 🎯 Mission: Elite Software Engineer  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/amritsugandh/amritsugandh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⚡ Motto
+> Consistency beats talent when talent doesn’t stay consistent.
+
+⭐ Follow for awesome projects coming soon!
