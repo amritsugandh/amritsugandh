@@ -24,15 +24,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/amritsugandh/amritsugandh/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/amritsugandh/amritsugandh/output/github-contribution-grid-snake.svg)
+
 
 ---
 
