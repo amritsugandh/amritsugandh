@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋 I'm Amrit Sugandh</h1>
-<h3 align="center">B.Tech Student at IIT Patna | Aspiring Software Engineer 🚀</h3>
 
-<p align="center">
-Building modern web applications • Practicing DSA daily • Growing consistently
-</p>
-
-<p align="center">
-🚀 Developer in progress | 💻 Problem Solver | 📈 Growth Mindset
-</p>
 
 ---
 
@@ -25,29 +16,6 @@ Building modern web applications • Practicing DSA daily • Growing consistent
 </p>
 
 ---
-## 💻 Featured Projects
-
-### 🌐 Portfolio Website  
-A modern responsive personal portfolio showcasing my skills and projects.  
-**Tech:** React, Tailwind CSS  
-
-🔗 Live | 📂 Repo  
-
----
-
-### 📊 DSA Practice Tracker  
-Tracks daily coding progress and performance analytics.  
-**Tech:** JavaScript, Node.js, MongoDB  
-
-🔗 Live | 📂 Repo  
-
----
-
-### 🛒 E-Commerce Web App  
-Full-stack shopping platform with authentication and payments.  
-**Tech:** MERN Stack  
-
-🔗 Live | 📂 Repo  
 
 ---
 
@@ -70,13 +38,6 @@ Full-stack shopping platform with authentication and payments.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritsugandh&theme=tokyo-night&hide_border=true)
 
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: your portfolio link 
-- 💼 LinkedIn: https://www.linkedin.com/in/amrit-sugandh-668419299
-- ✉️ Email: iamritsugandh@gmail.com
 ---
 
 ### ⚡ Motto
