@@ -1,42 +1,47 @@
+<h1 align="center">Hi 👋 I'm Amrit Sugandh</h1>
+<h3 align="center">MCA Student at IIT Patna | Aspiring Software Developer</h3>
 
-
----
-
-## 👨‍💻 About Me
-- 🎓 MCA Student at IIT Patna  
-- 🌱 Learning Full Stack & DSA  
-- 🔥 Building projects daily  
-- 🎯 Mission: Elite Software Engineer  
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
+🚀 Building skills | 💻 Writing code | 📈 Growing every day
 </p>
 
 ---
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritsugandh&layout=compact)
-
+### 👨‍💻 About Me  
+- 🎓 MCA Student at **IIT Patna**  
+- 🔥 Focused on Web Development & DSA  
+- 🌱 Currently learning Full Stack Development  
+- 🎯 Goal: Become a high-impact software engineer  
 
 ---
 
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=amritsugandh&theme=tokyonight&no-frame=true&row=1&column=6)
+### 🛠 Tech Stack  
+- HTML | CSS | JavaScript  
+- Python | C++ (for DSA)  
+- Git & GitHub  
 
 ---
 
-## 📊 Contribution Activity
+### 📌 What I'm Working On  
+✔ Real-world web projects  
+✔ Strong problem solving skills  
+✔ Clean coding practices  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritsugandh&theme=tokyo-night&hide_border=true)
+---
+
+### 🌐 Connect With Me  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-link  
+- 📺 YouTube (coming soon 😉)
+
+---
+
+### ⚡ Quote I Live By  
+> “Small improvements every day lead to massive success.”
+
+---
+
+⭐ If you like my work, consider following — let's grow together!
 
 ---
 
