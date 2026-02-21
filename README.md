@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Amrit+Sugandh+%F0%9F%91%8B;MCA+Student+at+IIT+Patna;Future+Software+Engineer;Building+Daily+%F0%9F%94%A5" />
-</h1>
+<h1 align="center">Hi 👋 I'm Amrit Sugandh</h1>
+<h3 align="center">B.Tech Student at IIT Patna | Aspiring Software Engineer 🚀</h3>
+
+<p align="center">
+Building modern web applications • Practicing DSA daily • Growing consistently
+</p>
 
 <p align="center">
 🚀 Developer in progress | 💻 Problem Solver | 📈 Growth Mindset
@@ -22,12 +25,38 @@
 </p>
 
 ---
+## 💻 Featured Projects
 
-## 📊 GitHub Stats
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
-</p>
+### 🌐 Portfolio Website  
+A modern responsive personal portfolio showcasing my skills and projects.  
+**Tech:** React, Tailwind CSS  
+
+🔗 Live | 📂 Repo  
+
+---
+
+### 📊 DSA Practice Tracker  
+Tracks daily coding progress and performance analytics.  
+**Tech:** JavaScript, Node.js, MongoDB  
+
+🔗 Live | 📂 Repo  
+
+---
+
+### 🛒 E-Commerce Web App  
+Full-stack shopping platform with authentication and payments.  
+**Tech:** MERN Stack  
+
+🔗 Live | 📂 Repo  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritsugandh&layout=compact)
+
 
 ---
 
@@ -41,6 +70,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritsugandh&theme=tokyo-night&hide_border=true)
 
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: your portfolio link 
+- 💼 LinkedIn: https://www.linkedin.com/in/amrit-sugandh-668419299
+- ✉️ Email: iamritsugandh@gmail.com
 ---
 
 ### ⚡ Motto
