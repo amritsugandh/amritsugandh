@@ -1,47 +1,38 @@
-<h1 align="center">Hi 👋 I'm Amrit Sugandh</h1>
-<h3 align="center">MCA Student at IIT Patna | Aspiring Software Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Amrit+Sugandh+%F0%9F%91%8B;MCA+Student+at+IIT+Patna;Future+Software+Engineer;Building+Daily+%F0%9F%94%A5" />
+</h1>
 
 <p align="center">
-🚀 Building skills | 💻 Writing code | 📈 Growing every day
+🚀 Developer in progress | 💻 Problem Solver | 📈 Growth Mindset
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 MCA Student at **IIT Patna**  
-- 🔥 Focused on Web Development & DSA  
-- 🌱 Currently learning Full Stack Development  
-- 🎯 Goal: Become a high-impact software engineer  
+## 👨‍💻 About Me
+- 🎓 MCA Student at IIT Patna  
+- 🌱 Learning Full Stack & DSA  
+- 🔥 Building projects daily  
+- 🎯 Mission: Elite Software Engineer  
 
 ---
 
-### 🛠 Tech Stack  
-- HTML | CSS | JavaScript  
-- Python | C++ (for DSA)  
-- Git & GitHub  
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
+</p>
 
 ---
 
-### 📌 What I'm Working On  
-✔ Real-world web projects  
-✔ Strong problem solving skills  
-✔ Clean coding practices  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-### 🌐 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-link  
-- 📺 YouTube (coming soon 😉)
-
----
-
-### ⚡ Quote I Live By  
-> “Small improvements every day lead to massive success.”
-
----
-
-⭐ If you like my work, consider following — let's grow together!
+## 🐍 Contribution Snake
+![snake gif](https://github.com/amritsugandh/amritsugandh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -49,3 +40,4 @@
 > Consistency beats talent when talent doesn’t stay consistent.
 
 ⭐ Follow for awesome projects coming soon!
+---
