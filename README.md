@@ -1,43 +1,61 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Amrit+Sugandh+%F0%9F%91%8B;MCA+Student+at+IIT+Patna;Future+Software+Engineer;Building+Daily+%F0%9F%94%A5" />
-</h1>
+<h1 align="center">Hi 👋 I'm Amrit Sugandh</h1>
 
 <p align="center">
-🚀 Developer in progress | 💻 Problem Solver | 📈 Growth Mindset
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Web+Developer;Data+Science+%26+ML+Learner;Exploring+Generative+AI&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a> •
+<a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 MCA Student at IIT Patna  
-- 🌱 Learning Full Stack & DSA  
-- 🔥 Building projects daily  
-- 🎯 Mission: Elite Software Engineer  
+## 🚀 About Me  
+
+🎓 B.Tech Student at IIT Patna  
+💻 Passionate Software Developer  
+🌐 Web Development + DSA focused  
+📊 Learning Data Science & ML  
+🤖 Exploring Generative AI  
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github" />
-</p>
+## 🛠 Tech Stack  
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=tokyonight" height="165"/>
-</p>
+## 📈 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/amritsugandh/amritsugandh/blob/output/github-contribution-grid-snake.svg)
+## 🏆 Achievements  
+
+🏅 Solving DSA problems consistently  
+🚀 Building real-world projects  
+📚 Continuous learner  
 
 ---
 
-### ⚡ Motto
-> Consistency beats talent when talent doesn’t stay consistent.
+## 📫 Connect With Me  
 
-⭐ Follow for awesome projects coming soon!
+🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+🌐 Portfolio: https://YOUR_PORTFOLIO_LINK  
+📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
+📧 Email: yourmail@gmail.com  
+
 ---
+
+✨ Thanks for visiting my profile!
