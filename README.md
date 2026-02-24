@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/amrit-sugandh-668419299">LinkedIn</a> •
 <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a> •
 <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a>
 </p>
