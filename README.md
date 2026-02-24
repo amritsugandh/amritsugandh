@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack+Developer;Data+Science+%26+Machine+Learning;Generative+AI+Enthusiast&center=true&width=600&height=45">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amrit-sugandh-668419299">LinkedIn</a> •
-  <a href="https://amritsugandh.github.io/my_vibe_portfolio">Portfolio</a> •
-  <a href="https://www.instagram.com/amritverse_iitp?igsh=ODlzaDFzaTU1c3Zk">Instagram</a> •
-  <a href="mailto:your-email@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 🎯 About Me
@@ -61,10 +54,12 @@
 
 ## 🔗 Connect With Me
 
-- **LinkedIn**: [amrit-sugandh-668419299](https://www.linkedin.com/in/amrit-sugandh-668419299)
-- **Portfolio**: [My Vibe Portfolio](https://amritsugandh.github.io/my_vibe_portfolio)
-- **Instagram**: [@amritverse_iitp](https://www.instagram.com/amritverse_iitp?igsh=ODlzaDFzaTU1c3Zk)
-- **GitHub**: [@amritsugandh](https://github.com/amritsugandh)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrit-sugandh-668419299">LinkedIn</a> •
+  <a href="https://amritsugandh.github.io/my_vibe_portfolio">Portfolio</a> •
+  <a href="https://www.instagram.com/amritverse_iitp?igsh=ODlzaDFzaTU1c3Zk">Instagram</a> •
+  <a href="mailto:your-email@gmail.com">Email</a>
+</p>
 
 ---
 
