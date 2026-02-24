@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amrit-sugandh-668419299">LinkedIn</a> •
-<a href="https://amritsugandh.github.io/my_vibe_portfolio/</a> •
+<a href="https://amritsugandh.github.io/my_vibe_portfolio</a> •
 <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a>
 </p>
 
