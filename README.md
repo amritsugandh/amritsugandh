@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Amrit Sugandh</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Vibe+Coder;Full+Stack+Developer;Data+Science+Machine+Learning+Enthusiast;Generative+AI+Enthusiast&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Vibe+Coder;Full+Stack+Developer;Data+Science+&+Machine+Learning+Enthusiast;Generative+AI+Enthusiast&center=true&width=600&height=45">
 </p>
 
 ---
