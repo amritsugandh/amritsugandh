@@ -57,8 +57,9 @@
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/amritsugandh/amritsugandh/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/amritsugandh/amritsugandh/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
