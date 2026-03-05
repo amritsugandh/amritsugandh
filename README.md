@@ -1,13 +1,13 @@
-<h2 align="center">Hi 👋, I'm Amrit Sugandh</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=MCA+at+IIT+Patna;SDE+Aspirant;Full+Stack+Developer;Generative+AI+%26+ML+Explorer;Vibe+Coder+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2196F3,814DDA,EC407A,F44336&height=150&section=header&text=Welcome%20to%20my%20Dev%20Space&fontSize=35&fontAlign=center&fontAlignY=40&animation=waving&speed=120" alt="Amrit's Animated Gradient Header" />
 </p>
 
 ---
 
+<h1 align="center">Hi 👋, I'm Amrit Sugandh</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2196F3,814DDA,EC407A,F44336&height=150&section=header&text=Welcome%20to%20my%20Dev%20Space&fontSize=35&fontAlign=center&fontAlignY=40&animation=waving&speed=120" alt="Amrit's Animated Gradient Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=MCA+at+IIT+Patna;SDE+Aspirant;Full+Stack+Developer;Generative+AI+%26+ML+Explorer;Vibe+Coder+🚀" alt="Typing SVG" />
 </p>
 
 ---
