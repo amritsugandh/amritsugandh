@@ -39,8 +39,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritsugandh&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amritsugandh&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amritsugandh&layout=compact&theme=dark&cache_seconds=1800" alt="Top Langs" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsugandh&theme=dark">
@@ -48,10 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritsugandh&theme=react-dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritsugandh&layout=compact&theme=dark">
 </p>
 
 ---
