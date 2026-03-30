@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Amrit Sugandh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=MCA+at+IIT+Patna;SDE+Aspirant;Full+Stack+Developer;Generative+AI+%26+ML+Explorer;Vibe+Coder+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=Pursuing+MCA+at+IIT+Patna;SDE+Aspirant;Full+Stack+Developer;Generative+AI+%26+ML+Explorer;Vibe+Coder+🚀" alt="Typing SVG" />
 </p>
 
 ---
