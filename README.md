@@ -80,7 +80,7 @@ These metrics automatically update as I push new code to my repositories.
   <a href="https://www.linkedin.com/in/amrit-sugandh-668419299">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="(https://portfolio-eight-tau-7d7gh5syd4.vercel.app/)">
+  <a href="https://portfolio-eight-tau-7d7gh5syd4.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/amritverse_iitp">
