@@ -24,7 +24,7 @@ I am a dedicated **Master of Computer Applications (MCA)** student at **IIT Patn
 
 ### 💻 Technical Toolkit
 
-<img src="https://img.shields.io/badge/languages-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Languages-blue?style=flat-square">
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,7 +32,7 @@ I am a dedicated **Master of Computer Applications (MCA)** student at **IIT Patn
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/frontend%20%26%20web-green?style=flat-square">
+<img src="https://img.shields.io/badge/Frontend%20%26%20Web-green?style=flat-square">
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@ I am a dedicated **Master of Computer Applications (MCA)** student at **IIT Patn
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/backend%20%26%20tools-red?style=flat-square">
+<img src="https://img.shields.io/badge/Backend%20%26%20Tools-red?style=flat-square">
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -80,7 +80,7 @@ These metrics automatically update as I push new code to my repositories.
   <a href="https://www.linkedin.com/in/amrit-sugandh-668419299">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://amritsugandh.github.io/my_vibe_portfolio">
+  <a href="(https://portfolio-eight-tau-7d7gh5syd4.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/amritverse_iitp">
